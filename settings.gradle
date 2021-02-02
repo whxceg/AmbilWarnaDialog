@@ -1,0 +1,3 @@
+include ':Library'
+include ':Sample'
+rootProject.name = "AmbilWarnaDialog"
